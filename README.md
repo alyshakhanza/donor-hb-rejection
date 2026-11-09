@@ -1,4 +1,4 @@
-# SARIMA vs LSTM: Peramalan Penolakan Donor Darah Berdasarkan Kadar Hemoglobin
+# Perbandingan SARIMA dan LSTM dalam Peramalan Harian Penolakan Donor Darah Akibat Hemoglobin Rendah
 
 Perbandingan model SARIMA dan Long Short-Term Memory (LSTM) untuk meramalkan jumlah harian calon pendonor yang ditolak karena kadar hemoglobin (HB) tidak memenuhi syarat di UDD PMI Kota Surabaya.
 
